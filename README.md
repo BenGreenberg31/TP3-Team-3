@@ -12,6 +12,7 @@
   In the case of academic LLM applications, many private student and teacher models such as Khanmigo, Eduaide.ai, and MagicSchool.ai have been created. While these models do have fees acompanying them, they are more suited to education in comparison to open source models. However, it’s important to recognize that even the most advanced models can produce errors. Unfortunately, inaccurate responses can be detrimental to students who learn to trust outputs. Similarly, bias in training data can also lead to reinforcement or teaching of stereotypes. Despite these limitations, the potential for LLMs to become a key asset within education is anticipated. As technology continues to advance, it is likely the capabilities and accessibility of LLMs will too. This will allow for the use of LLMs across a wide range of industries to continue expanding.
 
 Creators: 
+
 [Fiona Basewitz](https://github.com/fcbasewitz/Profile/blob/main/README.md)
 [Rachael Lee](https://github.com/relee713/hello_world?tab=readme-ov-file#hobbies)
 [Ben Greenberg](https://github.com/BenGreenberg31)
@@ -19,6 +20,9 @@ Creators:
 
 Sources:
 
-Elkins, S., Kochmar, E., Cheung, J. C. K., & Serban, I. (2024). How Teachers Can Use Large Language Models and Bloom’s Taxonomy to Create Educational Quizzes. Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23084-23091. https://doi.org/10.1609/aaai.v38i21.30353
-TensorFlow Authors. (n.d.). Text generation with an RNN. TensorFlow. https://www.tensorflow.org/text/tutorials/text_generation
-Qian, C. (2023, April 17). GPT-2 text generation with KerasNLP and Keras Hub. Keras. https://keras.io/examples/generative/gpt2_text_generation_with_keras_hub/
+Elkins, S., Kochmar, E., Cheung, J. C. K., & Serban, I. (2024). *How teachers can use large language models and Bloom’s taxonomy to create educational quizzes*. _Proceedings of the AAAI Conference on Artificial Intelligence, 38_(21), 23084–23091. https://doi.org/10.1609/aaai.v38i21.30353
+
+TensorFlow Authors. (n.d.). *Text generation with an RNN*. TensorFlow. https://www.tensorflow.org/text/tutorials/text_generation
+
+Qian, C. (2023, April 17). *GPT-2 text generation with KerasNLP and Keras Hub*. Keras. https://keras.io/examples/generative/gpt2_text_generation_with_keras_hub/
+
