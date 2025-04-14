@@ -28,5 +28,6 @@ TensorFlow Authors. (n.d.). *Text generation with an RNN*. TensorFlow. https://w
 Qian, C. (2023, April 17). *GPT-2 text generation with KerasNLP and Keras Hub*. Keras. https://keras.io/examples/generative/gpt2_text_generation_with_keras_hub/
 
 ![Team Photo](TeamPhotos/FionaBasewitz.png)
+![Team Photo](TeamPhotos/RachaelLee.png)
 ![Team Photo](TeamPhotos/BenGreenberg.png)
 ![Team Photo](TeamPhotos/MattijsLasore.png)
