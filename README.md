@@ -17,4 +17,10 @@ Creators:
 [Ben Greenberg](https://github.com/BenGreenberg31)
 [Mattijs Lasore](https://github.com/mlasore26/profile)
 
+Sources
+
 Elkins, S., Kochmar, E., Cheung, J. C. K., & Serban, I. (2024). How Teachers Can Use Large Language Models and Bloom’s Taxonomy to Create Educational Quizzes. Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23084-23091. https://doi.org/10.1609/aaai.v38i21.30353
+
+TensorFlow Authors. (n.d.). Text generation with an RNN. TensorFlow. https://www.tensorflow.org/text/tutorials/text_generation
+
+Qian, C. (2023, April 17). GPT-2 text generation with KerasNLP and Keras Hub. Keras. https://keras.io/examples/generative/gpt2_text_generation_with_keras_hub/
